@@ -16,7 +16,7 @@ function loaded(){
 
 var x = 0;
 
-var titleText = [ "ㅤ", "emiliya", "ㅤ", "e", "em", "emi", "emil", "emili", "ㅤ", "emiliy", "emiliya", "EMILIYA ", "emiliya", "EMILIYA ", "emiliya",  "EMILIYA", "emiliya", "emiliy"," emili", "emil", "emi", "em", "e", "" ];
+var titleText = [ "ㅤ", "ujicos", "ㅤ", "u", "uj", "uji", "ujic", "ujico", "ujicos", "ujico", "ujic", "uji ", "uj", "u ", "" ];
 
 function loop(){
 
