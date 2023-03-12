@@ -8,18 +8,6 @@ $(document).ready(function() {
             name: 'Infinity Engine - IW7',
             link: 'index'
         },
-    {
-            name: 'IW4 Gunfight',
-            link: 'index'
-    },
-		{
-            name: 'COD-MOD EMILIYA',
-            link: 'https://www.youtube.com/watch?v=dYP2lcSEFNA'
-        },
-{
-            name: 'IW4 All or Nothing (Open Source)',
-            link: 'https://github.com/EMlLlYA/IW4-All-or-Nothing-Mod'
-        },
     ];
 
     for(var i in links) {
